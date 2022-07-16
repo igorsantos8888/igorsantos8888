@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Igor Santos
 
-- 🔭 Atualmente trabalhando como Suporte técnico N1
+- 🔭 Atualmente trabalhando como Suporte técnico N1 com C#
 - 🌱 Estudado Python em conjunto com o framework Django
 
 
