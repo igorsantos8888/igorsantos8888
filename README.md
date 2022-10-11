@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Igor Santos
 
 - 🔭 Atualmente trabalhando como Suporte técnico N1 com C#
-- 🌱 Estudado Javascript puro
+- 🌱 Estudado Javascript puro  futuramente Vue ou React
 
 
 <div>
